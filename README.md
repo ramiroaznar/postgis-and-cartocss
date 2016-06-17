@@ -8,8 +8,8 @@ Taller de PostGIS y CartoCSS con CartoDB para GeoInquietos Madrid en Medialab-Pr
   *  GeoInquietos Madrid: [slides](http://slides.com/ramiroaznar/postgis-cartocss/fullscreen)
   *  CartoDB: [slides](https://docs.google.com/presentation/d/1fkryDLJkwKY7etou3dvnsurX324aDRhkpI5rGogzf3M/edit?usp=sharing)
 
-* **Análisis espacial con PostGIS**: []()
-
-* **Diseño cartográfico con CartoCSS**: []()
+* Taller de PostGIS y CartoCSS con CartoDB: http://bit.ly/postgis-cartocss
+  * **Análisis espacial con PostGIS**: [](http://cartodb.github.io/training/intermediate/cartocss.html#postgis)
+  * **Diseño cartográfico con CartoCSS**: [](http://cartodb.github.io/training/intermediate/cartocss.html#cartocss)
 
 
